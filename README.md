@@ -4,6 +4,8 @@ This package contains all numerical code for the current index rebalance paper,
 including its finite-player and mean-field illustrations and all nine manuscript
 figures. No external data files are required.
 
+Paper: [Strategic Index Reconstitution: Differential Games, Closed-Loop Equilibria and Mean-Field Dynamics](https://arxiv.org/abs/2609.15901).
+
 ## Setup and Run
 
 Use Python 3.10 or later. From this folder, create a virtual environment and
